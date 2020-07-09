@@ -1,2 +1,2 @@
 # umich_ds
- Contains worked prograns and prjects from the Data Science specialization from UMich.
+ Contains worked programs and projects from the Data Science specialization from UMich.
